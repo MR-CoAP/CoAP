@@ -9,6 +9,6 @@ CONTRIBUTORS:
   
   
 ACKNOWLEDGEMENTS:
-Development of this code has been partly developed as contribution to the EU-funded PPP project FI-WARE.
+ This code has been partly developed as contribution to the EU-funded PPP project FI-WARE.
  
   
